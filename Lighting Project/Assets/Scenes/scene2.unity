@@ -1101,9 +1101,9 @@ RectTransform:
   m_Father: {fileID: 1890793642}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 275.52936, y: 604}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 378.66653, y: 30.259277}
   m_SizeDelta: {x: 579.1367, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1480961122
@@ -1726,7 +1726,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1e-45, y: 7.302e-42, z: 1.02e-43, w: 0}
+  m_BoundingSphereOverride: {x: 5.42e-43, y: 2.28e-43, z: 0, w: 40.378387}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
